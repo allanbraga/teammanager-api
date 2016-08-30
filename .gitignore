@@ -6,3 +6,5 @@ out/
 *.iml
 classes/
 .eclipse
+.classpath
+.settings
