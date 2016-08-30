@@ -1,0 +1,13 @@
+com\teammanager\api\core\AbstractDocument.class
+com\teammanager\api\Application.class
+com\teammanager\api\employee\document\Employee.class
+com\teammanager\api\user\service\UserServiceImpl.class
+com\teammanager\api\employee\service\EmployeeServiceImpl.class
+com\teammanager\api\employee\service\EmployeeService.class
+com\teammanager\api\user\repository\UserRepository.class
+com\teammanager\api\user\document\User.class
+com\teammanager\api\employee\repository\EmployeeRepository.class
+com\teammanager\api\employee\controller\EmployeeController.class
+com\teammanager\api\DatabaseLoader.class
+com\teammanager\api\security\SecurityConfiguration.class
+com\teammanager\api\user\service\UserService.class
